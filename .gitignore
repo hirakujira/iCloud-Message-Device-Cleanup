@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+._*
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+SMS/
+/database/*
+!/database/.gitkeep
+Attachments/
+SMS-Attachment/
+backup/
+sms-cleanup-backups/
+attachment-audit-*/
